@@ -2,6 +2,7 @@
 
 #### **Hello! I created this list and am constantly updating it with new resources, information, and news. If you want to stay updated on the newest trends, tutorials, and articles in the Web Development world, please subscribe to the once-weekly newsletter!**
 
+
 ### [Subscribe To The Weekly Newsletter Here](https://docs.google.com/forms/d/e/1FAIpQLSeQYYmBCBfJF9MXFmRJ7hnwyXvMwyCtHC5wxVDh5Cq--VT6Fg/viewform)
 
 _Never more than one email per week. Easy to unsubscribe. Your information will **never** be shared._
